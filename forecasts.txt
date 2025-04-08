@@ -1,0 +1,5 @@
+DAILY,New York,2025-04-01,15,Sunny
+DAILY,London,2025-04-01,12,Cloudy
+WEEKLY,Tokyo,2025-04-01,2025-04-07
+DAILY,Tokyo,2025-04-01,18,Sunny
+DAILY,Tokyo,2025-04-02,20,Partly Cloudy
